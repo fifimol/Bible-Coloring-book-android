@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ratinale_list">
+        <item>This lets this app to access your calendar events. To enable this, click App Settings below and activate &lt;b&gt;&lt;font color=#009485&gt;Calendar&lt;/b&gt; under the Permissions menu.</item>
+        <item>This lets this app capture images and videos from the camera. To enable this, click App Settings below and activate &lt;b&gt;&lt;font color=#009485&gt;Camera&lt;/b&gt; under the Permissions menu.</item>
+        <item>This lets this app to read or add contacts. To enable this, click App Settings below and activate &lt;b&gt;&lt;font color=#009485&gt;Contacts&lt;/b&gt; under the Permissions menu.</item>
+        <item>This lets this app to access your location. To enable this, click App Settings below and activate &lt;b&gt;&lt;font color=#009485&gt;Location&lt;/b&gt; under the Permissions menu.</item>
+        <item>This lets this app to access or record audio. To enable this, click App Settings below and activate &lt;b&gt;&lt;font color=#009485&gt;Microphone&lt;/b&gt; under the Permissions menu.</item>
+        <item>This lets this app to pause sounds during incoming phone calls to avoid noise. To enable this, click App Settings below and activate &lt;b&gt;&lt;font color=#009485&gt;Phone&lt;/b&gt; under the Permissions menu.</item>
+        <item>This lets this app to detect body sensors. To enable this, click App Settings below and activate &lt;b&gt;&lt;font color=#009485&gt;Body Sensors&lt;/b&gt; under the Permissions menu.</item>
+        <item>This lets this app to access or send messages. To enable this, click App Settings below and activate &lt;b&gt;&lt;font color=#009485&gt;SMS&lt;/b&gt; under the Permissions menu.</item>
+        <item>This lets this app store and access information like photos on your phone and its SD card. To enable this, click App Settings below and activate &lt;b&gt;&lt;font color=#009485&gt;Storage&lt;/b&gt; under the Permissions menu.</item>
+    </array>
+    <array name="permission_words">
+        <item>&lt;b&gt;&lt;font color=#009485&gt;Calendar&lt;/b&gt;</item>
+        <item>&lt;b&gt;&lt;font color=#009485&gt;Camera&lt;/b&gt;</item>
+        <item>&lt;b&gt;&lt;font color=#009485&gt;Contacts&lt;/b&gt;</item>
+        <item>&lt;b&gt;&lt;font color=#009485&gt;Location&lt;/b&gt;</item>
+        <item>&lt;b&gt;&lt;font color=#009485&gt;Microphone&lt;/b&gt;</item>
+        <item>&lt;b&gt;&lt;font color=#009485&gt;Phone&lt;/b&gt;</item>
+        <item>&lt;b&gt;&lt;font color=#009485&gt;Sensors&lt;/b&gt;</item>
+        <item>&lt;b&gt;&lt;font color=#009485&gt;SMS&lt;/b&gt;</item>
+        <item>&lt;b&gt;&lt;font color=#009485&gt;Storage&lt;/b&gt;</item>
+    </array>
+</resources>

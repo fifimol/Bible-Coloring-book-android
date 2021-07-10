@@ -1,0 +1,4 @@
+#Fri Oct 30 00:25:42 AST 2020
+base.0=C\:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bible Story Coloring</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="store_picture_message">Allow This app to store image in Picture gallery?</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <!--Banner-->
+    <string name="AD_UNIT_ID">ca-app-pub-3940256099942544/630097811</string>
+   <!-- Intersial-->
+    <string name="INTERSTITIAL_UNIT_ID">ca-app-pub-3940256099942544/103317371</string>
+    <string name="message_to_share">Hey! Checkout this amazing app.</string>
+    <string name="intent_message">Share drawing via</string>
+    <string name="rate_app_play">https://play.google.com/store/apps/developer?id=Ebenezer+Softwares</string>
+    <string name="allow_permission">Allow Permission</string>
+    <string name="app_settings">App Settings</string>
+    <string name="permission_list_rationale_message1">The app needs to access</string>
+    <string name="permission_list_rationale_message2">To enable these permissions, click App Settings below and activate them under the Permissions menu.</string>
+
+</resources>

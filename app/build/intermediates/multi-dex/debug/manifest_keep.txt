@@ -1,0 +1,3 @@
+# Referenced at C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:17
+-keep class com.application.AdApplication { <init>(...); }
+

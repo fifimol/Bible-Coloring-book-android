@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/level_bg"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:background="@drawable/sketch_top_panel"
+        android:padding="5dp"
+        android:paddingTop="4dp">
+
+        <ImageView
+            android:id="@+id/aSelect_btnBack"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:adjustViewBounds="true"
+            android:onClick="onBackClicked"
+            android:src="@drawable/btn_back" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Select a page"
+            android:textColor="#000000"
+            android:textSize="30dp" />
+    </RelativeLayout>
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+
+
+        ads:adUnitId="@string/AD_UNIT_ID"
+        >
+    </com.google.android.gms.ads.AdView>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_drawing"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:clipToPadding="false"
+        android:paddingBottom="20dp"
+        android:scrollbars="vertical" />
+
+
+</LinearLayout>

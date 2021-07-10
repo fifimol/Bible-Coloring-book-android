@@ -1,0 +1,316 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:2:1-79:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\a527ad4f532df6b258c428a911debd89\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\ef9c997edfa62b91e0d370b598210169\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\28b4aa78b7d7c16150815353e8235a9e\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\78b01033bc7cb6c0426f578cf0847e94\jetified-play-services-ads-15.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\8a8c178ed3a253513e4219a64e4ec0ba\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\7609636bf1f7349f730e280d609f34f8\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\034524e1141327e41907da9c289e84ab\play-services-gass-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3111701ea53d7372bfb0e7f327f8c7a4\jetified-play-services-basement-15.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\0ccf7d1f41f08a9fbac49eb844da8039\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\935c1eb103e362446c63f75dbc889f07\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\045ecda214dc48a7b6794acabc444ee0\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\b5e85f9c2c43d340fa8412ee09ce1909\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\9d4053b57d170770335ff225b77d62ba\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\142e93d95da0344235eb82ee7f05a108\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\b437c8e4cf053fd87bc8836cb75ffd62\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\39bc12f0ae9182a12820380de3eccf45\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\30364a4e1d148d54a282aaa580ec2e4d\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\dcd86c4e1bc7b82faa13cfa95eb5ce30\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\bdfbb38555a741f74d62c90cf85e0b35\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\a8f36a69659c55a007f35cfecb9dcfc6\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\7b541f4196cf846f7dd467165838e072\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\715ac09ebebe6f055fd8c27935b09c71\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\24a7c4b656e8849fce6b1ec879de45c1\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\b92201a39ca35c5371c82710bc662dc7\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\d38c28a7a4bd66deb92fbaacca82413e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\18aae0e1403cb9536d945989108c14a5\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\8dcd1701ae68e2a64de609ba4b65471f\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\85bbcabe709b3efb54d74d18f7977a81\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\94115104efb23786ea53cd1a51dde3af\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\884715ee5d4759e99f0bf4b3058e7279\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\eb25aa6fb92793269536cebf4ca0a993\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\cbfdfe08c267cf71c6eae9047a7b16ca\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\335a1a6eb49eac2eab041286c81584a5\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\31a15a162cd7bb718e862c0cc13bfa61\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\af090a78eaea8296976d6555a3a135f2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\4277c449ae4e7defb11901a027a49277\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\9b14025540e1c0e0278fee415366684e\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3e9337dfc055970a9422bc379c54bdcb\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\48eb1e8d8b8ad7006b2f3cf24b65d608\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3ac94c6710f1d8250aa99a2af97fc21f\play-services-ads-base-15.0.1\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:10:22-75
+application
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:13:5-77:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\7609636bf1f7349f730e280d609f34f8\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\7609636bf1f7349f730e280d609f34f8\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\034524e1141327e41907da9c289e84ab\play-services-gass-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\034524e1141327e41907da9c289e84ab\play-services-gass-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3111701ea53d7372bfb0e7f327f8c7a4\jetified-play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3111701ea53d7372bfb0e7f327f8c7a4\jetified-play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\8dcd1701ae68e2a64de609ba4b65471f\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\8dcd1701ae68e2a64de609ba4b65471f\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\94115104efb23786ea53cd1a51dde3af\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\94115104efb23786ea53cd1a51dde3af\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3ac94c6710f1d8250aa99a2af97fc21f\play-services-ads-base-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3ac94c6710f1d8250aa99a2af97fc21f\play-services-ads-base-15.0.1\AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\8dcd1701ae68e2a64de609ba4b65471f\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:16:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:22:9-43
+	android:icon
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:20:9-53
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3111701ea53d7372bfb0e7f327f8c7a4\jetified-play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3111701ea53d7372bfb0e7f327f8c7a4\jetified-play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:24:13-58
+activity#com.biblestory.color.SplashActivity
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:screenOrientation
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:29:13-55
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:28:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.biblestory.color.SketchActivity
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:36:9-40:58
+	android:screenOrientation
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:40:13-55
+	android:label
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:39:13-45
+	android:exported
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:37:13-63
+service#com.biblestory.color.MusicService
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:42:9-44:38
+	android:enabled
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:44:13-35
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:43:13-61
+activity#com.biblestory.color.SelectDrawingActivity
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:46:9-49:58
+	android:screenOrientation
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:49:13-55
+	android:exported
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:47:13-70
+activity#com.biblestory.color.HomeActivity
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:50:9-52:58
+	android:screenOrientation
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:52:13-55
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:51:13-61
+activity#com.biblestory.color.CategoriAsset
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:53:9-70
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:53:19-68
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:55:9-63:20
+	android:grantUriPermissions
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:59:13-47
+	android:authorities
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:57:13-55
+	android:exported
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:56:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:60:13-62:54
+	android:resource
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:62:17-51
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:61:17-67
+activity#com.biblestory.color.AppBaseActivity
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:65:9-73
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:65:19-70
+activity#com.biblestory.color.MyArtworksActivity
+ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:66:9-69:58
+	android:screenOrientation
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:69:13-55
+	android:exported
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:68:13-36
+	android:name
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:67:13-67
+uses-sdk
+INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\a527ad4f532df6b258c428a911debd89\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\a527ad4f532df6b258c428a911debd89\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\ef9c997edfa62b91e0d370b598210169\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\ef9c997edfa62b91e0d370b598210169\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\28b4aa78b7d7c16150815353e8235a9e\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\28b4aa78b7d7c16150815353e8235a9e\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\78b01033bc7cb6c0426f578cf0847e94\jetified-play-services-ads-15.0.1\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\78b01033bc7cb6c0426f578cf0847e94\jetified-play-services-ads-15.0.1\AndroidManifest.xml:21:5-23:52
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\8a8c178ed3a253513e4219a64e4ec0ba\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\8a8c178ed3a253513e4219a64e4ec0ba\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\7609636bf1f7349f730e280d609f34f8\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\7609636bf1f7349f730e280d609f34f8\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\034524e1141327e41907da9c289e84ab\play-services-gass-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\034524e1141327e41907da9c289e84ab\play-services-gass-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3111701ea53d7372bfb0e7f327f8c7a4\jetified-play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3111701ea53d7372bfb0e7f327f8c7a4\jetified-play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\0ccf7d1f41f08a9fbac49eb844da8039\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\0ccf7d1f41f08a9fbac49eb844da8039\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\935c1eb103e362446c63f75dbc889f07\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\935c1eb103e362446c63f75dbc889f07\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\045ecda214dc48a7b6794acabc444ee0\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\045ecda214dc48a7b6794acabc444ee0\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\b5e85f9c2c43d340fa8412ee09ce1909\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\b5e85f9c2c43d340fa8412ee09ce1909\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\9d4053b57d170770335ff225b77d62ba\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\9d4053b57d170770335ff225b77d62ba\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\142e93d95da0344235eb82ee7f05a108\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\142e93d95da0344235eb82ee7f05a108\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\b437c8e4cf053fd87bc8836cb75ffd62\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\b437c8e4cf053fd87bc8836cb75ffd62\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\39bc12f0ae9182a12820380de3eccf45\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\39bc12f0ae9182a12820380de3eccf45\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\30364a4e1d148d54a282aaa580ec2e4d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\30364a4e1d148d54a282aaa580ec2e4d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\dcd86c4e1bc7b82faa13cfa95eb5ce30\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\dcd86c4e1bc7b82faa13cfa95eb5ce30\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\bdfbb38555a741f74d62c90cf85e0b35\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\bdfbb38555a741f74d62c90cf85e0b35\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\a8f36a69659c55a007f35cfecb9dcfc6\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\a8f36a69659c55a007f35cfecb9dcfc6\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\7b541f4196cf846f7dd467165838e072\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\7b541f4196cf846f7dd467165838e072\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\715ac09ebebe6f055fd8c27935b09c71\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\715ac09ebebe6f055fd8c27935b09c71\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\24a7c4b656e8849fce6b1ec879de45c1\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\24a7c4b656e8849fce6b1ec879de45c1\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\b92201a39ca35c5371c82710bc662dc7\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\b92201a39ca35c5371c82710bc662dc7\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\d38c28a7a4bd66deb92fbaacca82413e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\d38c28a7a4bd66deb92fbaacca82413e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\18aae0e1403cb9536d945989108c14a5\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\18aae0e1403cb9536d945989108c14a5\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\8dcd1701ae68e2a64de609ba4b65471f\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\8dcd1701ae68e2a64de609ba4b65471f\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\85bbcabe709b3efb54d74d18f7977a81\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\85bbcabe709b3efb54d74d18f7977a81\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\94115104efb23786ea53cd1a51dde3af\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\94115104efb23786ea53cd1a51dde3af\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\884715ee5d4759e99f0bf4b3058e7279\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\884715ee5d4759e99f0bf4b3058e7279\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\eb25aa6fb92793269536cebf4ca0a993\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\eb25aa6fb92793269536cebf4ca0a993\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\cbfdfe08c267cf71c6eae9047a7b16ca\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\cbfdfe08c267cf71c6eae9047a7b16ca\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\335a1a6eb49eac2eab041286c81584a5\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\335a1a6eb49eac2eab041286c81584a5\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\31a15a162cd7bb718e862c0cc13bfa61\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\31a15a162cd7bb718e862c0cc13bfa61\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\af090a78eaea8296976d6555a3a135f2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\af090a78eaea8296976d6555a3a135f2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\4277c449ae4e7defb11901a027a49277\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\4277c449ae4e7defb11901a027a49277\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\9b14025540e1c0e0278fee415366684e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\9b14025540e1c0e0278fee415366684e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3e9337dfc055970a9422bc379c54bdcb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3e9337dfc055970a9422bc379c54bdcb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\48eb1e8d8b8ad7006b2f3cf24b65d608\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\48eb1e8d8b8ad7006b2f3cf24b65d608\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3ac94c6710f1d8250aa99a2af97fc21f\play-services-ads-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3ac94c6710f1d8250aa99a2af97fc21f\play-services-ads-base-15.0.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\78b01033bc7cb6c0426f578cf0847e94\jetified-play-services-ads-15.0.1\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:30:13-65

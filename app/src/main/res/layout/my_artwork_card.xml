@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="300dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/my_drawing_bg"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+
+            android:background="@drawable/sketch_bottom_panel"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <ImageView
+                android:id="@+id/myArtWork_btnDelete"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:scaleType="fitCenter"
+                android:src="@drawable/btn_reset" />
+
+            <ImageView
+                android:id="@+id/myArtWork_btnSave"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:scaleType="fitCenter"
+                android:src="@drawable/btn_save" />
+
+            <ImageView
+                android:id="@+id/myArtWork_btnShare"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:scaleType="fitCenter"
+                android:src="@drawable/btn_share" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="144dp"
+            android:visibility="gone"
+            android:scaleType="fitXY"
+            android:src="@drawable/freame2" />
+
+        <ImageView
+            android:id="@+id/thumbnail"
+            android:layout_width="144dp"
+            android:layout_height="144dp"
+            android:clickable="true"
+            android:scaleType="centerInside" />
+
+    </LinearLayout>
+
+</RelativeLayout>

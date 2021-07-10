@@ -1,0 +1,152 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.biblestory.color"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:6:5-81
+11-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:6:22-78
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:8:5-79
+13-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:9:5-76
+14-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:9:22-73
+15    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+15-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:10:5-78
+15-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:10:22-75
+16
+17    <application
+17-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:13:5-77:19
+18        android:name="com.application.AdApplication"
+18-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:20:9-53
+19        android:allowBackup="true"
+19-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:21:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.3.0] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\8dcd1701ae68e2a64de609ba4b65471f\core-1.3.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:hardwareAccelerated="true"
+22-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:22:9-43
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:15:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:16:9-41
+25        android:supportsRtl="true"
+25-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:18:9-35
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:19:9-40
+28        <meta-data
+28-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:23:9-25:69
+29            android:name="com.google.android.gms.version"
+29-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:24:13-58
+30            android:value="@integer/google_play_services_version" />
+30-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:25:13-66
+31
+32        <activity
+32-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:27:9-35:20
+33            android:name="com.biblestory.color.SplashActivity"
+33-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:28:13-63
+34            android:screenOrientation="sensorPortrait" >
+34-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:29:13-55
+35            <intent-filter>
+35-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:30:13-34:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:31:17-69
+36-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:31:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:33:17-77
+38-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:33:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:36:9-40:58
+42            android:name="com.biblestory.color.SketchActivity"
+42-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:37:13-63
+43            android:exported="true"
+43-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:38:13-36
+44            android:label="@string/app_name"
+44-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:39:13-45
+45            android:screenOrientation="sensorPortrait" />
+45-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:40:13-55
+46
+47        <service
+47-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:42:9-44:38
+48            android:name="com.biblestory.color.MusicService"
+48-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:43:13-61
+49            android:enabled="true" />
+49-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:44:13-35
+50
+51        <activity
+51-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:46:9-49:58
+52            android:name="com.biblestory.color.SelectDrawingActivity"
+52-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:47:13-70
+53            android:exported="true"
+53-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:48:13-36
+54            android:screenOrientation="sensorPortrait" />
+54-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:49:13-55
+55        <activity
+55-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:50:9-52:58
+56            android:name="com.biblestory.color.HomeActivity"
+56-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:51:13-61
+57            android:screenOrientation="sensorPortrait" />
+57-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:52:13-55
+58        <activity android:name="com.biblestory.color.CategoriAsset" />
+58-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:53:9-70
+58-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:53:19-68
+59
+60        <provider
+60-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:55:9-63:20
+61            android:name="androidx.core.content.FileProvider"
+61-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:56:13-62
+62            android:authorities="com.biblestory.color"
+62-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:57:13-55
+63            android:exported="false"
+63-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:58:13-37
+64            android:grantUriPermissions="true" >
+64-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:59:13-47
+65            <meta-data
+65-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:60:13-62:54
+66                android:name="android.support.FILE_PROVIDER_PATHS"
+66-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:61:17-67
+67                android:resource="@xml/file_paths" />
+67-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:62:17-51
+68        </provider>
+69
+70        <activity android:name="com.biblestory.color.AppBaseActivity" />
+70-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:65:9-73
+70-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:65:19-70
+71        <activity
+71-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:66:9-69:58
+72            android:name="com.biblestory.color.MyArtworksActivity"
+72-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:67:13-67
+73            android:exported="true"
+73-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:68:13-36
+74            android:screenOrientation="sensorPortrait" />
+74-->C:\Users\fif\Desktop\Final\Source Code Coloring\Coloring\app\src\main\AndroidManifest.xml:69:13-55
+75
+76        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+77        <activity
+77-->[com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:29:9-33:64
+78            android:name="com.google.android.gms.ads.AdActivity"
+78-->[com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:30:13-65
+79            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+79-->[com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:31:13-122
+80            android:exported="false"
+80-->[com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:32:13-37
+81            android:theme="@android:style/Theme.Translucent" />
+81-->[com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\fif\.gradle\caches\transforms-2\files-2.1\3c37660337d4fb26f691b150cef45c79\jetified-play-services-ads-lite-15.0.1\AndroidManifest.xml:33:13-61
+82    </application>
+83
+84</manifest>

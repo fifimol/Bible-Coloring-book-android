@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="144dp"
+        android:layout_height="122dp"
+        android:gravity="center"
+       >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:adjustViewBounds="true"
+            android:src="@drawable/drawing_item_bottom" />
+
+        <ImageView
+            android:id="@+id/iv_drawingItem"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="3dp"
+            android:background="@drawable/drawing_item_bg"
+            android:paddingLeft="20dp"
+            android:paddingRight="30dp"
+            android:scaleType="centerInside" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/ivRopeLeft"
+        android:layout_width="wrap_content"
+        android:layout_height="144dp"
+        android:src="@drawable/level_left" />
+
+    <ImageView
+        android:id="@+id/ivRopeRight"
+        android:layout_width="wrap_content"
+        android:layout_height="144dp"
+        android:layout_alignParentRight="true"
+        android:adjustViewBounds="true"
+        android:src="@drawable/level_right" />
+</RelativeLayout>

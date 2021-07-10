@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "982017709988",
+    "firebase_url": "https://astute-window-213416.firebaseio.com",
+    "project_id": "astute-window-213416",
+    "storage_bucket": "astute-window-213416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982017709988:android:1b1deaa59fdfd087",
+        "android_client_info": {
+          "package_name": "com.belicode.browserwithproxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982017709988-l91bv1jsaajebbe1do7u8b1upon5m2oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAndrc-ZRZvLSCQ44Vc-vPlbqrtZDR6R7s"
+        },
+        {
+          "current_key": "AIzaSyDiV_8N391DsZsnAM4mHIRvJekjURnt9UY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982017709988:android:b5338ed42f8ea839",
+        "android_client_info": {
+          "package_name": "com.belicode.coloring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982017709988-l91bv1jsaajebbe1do7u8b1upon5m2oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAndrc-ZRZvLSCQ44Vc-vPlbqrtZDR6R7s"
+        },
+        {
+          "current_key": "AIzaSyDiV_8N391DsZsnAM4mHIRvJekjURnt9UY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982017709988:android:eed120c327bda8c3",
+        "android_client_info": {
+          "package_name": "com.belicode.go_damkar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982017709988-qu642s32u0d40aq3q2ujn046oktvad68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.belicode.go_damkar",
+            "certificate_hash": "f84f8dca0fa74c07f77481f5bc5e91b9b7a5c062"
+          }
+        },
+        {
+          "client_id": "982017709988-l91bv1jsaajebbe1do7u8b1upon5m2oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAndrc-ZRZvLSCQ44Vc-vPlbqrtZDR6R7s"
+        },
+        {
+          "current_key": "AIzaSyDiV_8N391DsZsnAM4mHIRvJekjURnt9UY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982017709988-l91bv1jsaajebbe1do7u8b1upon5m2oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

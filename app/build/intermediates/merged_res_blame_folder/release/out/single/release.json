@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\layout_sketch_phone2.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\layout\\sketch_phone2.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_color_bg.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\color_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_pencil_back.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\pencil_back.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_my_artworks.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\layout\\activity_my_artworks.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_pinch_zoom.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\pinch_zoom.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_level_left.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\level_left.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_scroll.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\scroll.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_pencil_shadow.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\pencil_shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_reset.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\btn_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_cat2.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\cat2.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_home_play_btn.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\home_play_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_eraser.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\eraser.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_select_new_drawing.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\layout\\activity_select_new_drawing.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_new_home.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\layout\\activity_new_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_redo.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\btn_redo.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\layout_my_artwork_card.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\layout\\my_artwork_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_home_button_bg.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\home_button_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_game_title.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\game_title.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_zoom_in.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\zoom_in.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_cat1.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\cat1.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_thumb.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_main_bg.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\main_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_drawing_item_bg.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\drawing_item_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_eraser_selected.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\eraser_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_share.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\btn_share.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_save.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\btn_save.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\layout_color_item.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\layout\\color_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_zoom_out.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\zoom_out.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_cat4.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\cat4.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_back.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\btn_back.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\raw_audio.ogg.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\raw\\audio.ogg"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_sketch_bottom_panel.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\sketch_bottom_panel.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_reset1.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\btn_reset1.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_sketch_top_panel.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\sketch_top_panel.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_freame2.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\freame2.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\raw_gtm_analytics.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_app_base.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\layout\\activity_app_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_level_right.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\level_right.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_ad_bg.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\ad_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\layout_cat_card.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\layout\\cat_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_level_bg.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\level_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_pencil.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\pencil.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_slider.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_undo.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\btn_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\layout_category_activity.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\layout\\category_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_drawing_item_bottom.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\drawing_item_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\layout_drawing_item_new.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\layout\\drawing_item_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_main_bg1.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\main_bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_cat3.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\cat3.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_home_play_background.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\home_play_background.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_sketch_brush_bg.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\sketch_brush_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_my_drawing_bg.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\my_drawing_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\layout_cards_layout.xml.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\layout\\cards_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\build\\intermediates\\res\\merged\\release\\drawable_eraser_normal.png.flat",
+        "source": "C:\\Users\\fif\\Desktop\\Final\\Source Code Coloring\\Coloring\\app\\src\\main\\res\\drawable\\eraser_normal.png"
+    }
+]
